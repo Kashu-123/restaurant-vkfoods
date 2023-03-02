@@ -16,7 +16,7 @@
 
 ### Demo Screeshots
 
-![Foodie Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Foodie Desktop Demo](./desktop.png "Desktop Demo")
 
 ### License
 
