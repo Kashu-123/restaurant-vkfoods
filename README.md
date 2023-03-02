@@ -30,7 +30,7 @@ To run **Foodie** locally, run this command on your git bash:
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/foodie.git
+git clone https://github.com/Kashu-123/restaurant-vkfoods.git
 ```
 
 ### Contact
